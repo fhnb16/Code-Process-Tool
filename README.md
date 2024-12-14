@@ -83,7 +83,7 @@ Here are some suggestions to enhance the project:
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js
-- npm or Yarn
+- npm
 
 ### Installation
 - Clone this repository:
