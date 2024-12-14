@@ -1,6 +1,6 @@
 <template>
   <div class="editor-container h-full">
-    <!-- Редактор кода -->
+    <!-- Code Editor Component -->
     <VAceEditor
       v-model:value="editorStore.code"
       :lang="editorStore.selectedMode"

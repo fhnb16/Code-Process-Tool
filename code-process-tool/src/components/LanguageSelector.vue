@@ -1,5 +1,6 @@
 <template>
   <div class="flex justify-center items-center">
+    <!-- Language Select Component -->
     <label for="language" class="block font-bold px-2">Select language:</label>
     <select
       id="language"
