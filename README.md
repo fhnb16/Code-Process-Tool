@@ -93,3 +93,6 @@ Ensure you have the following installed:
 - `npm install`
 - create file `credintals.js` in /src/assets/ folder, and add export variable $apiKey with key for onecompiler.com
 - `npm run dev`
+
+
+  [![fhnb16](https://img.shields.io/badge/Made_by_fhnb16-december_2024-gray.svg?style=plastic&labelColor=FF0000)](https://fhnb.ru/)
